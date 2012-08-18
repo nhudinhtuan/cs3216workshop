@@ -1,3 +1,7 @@
 First blood
 Adding text...
+<<<<<<< HEAD
 Merging branches
+=======
+Inside gotham
+>>>>>>> gotham
